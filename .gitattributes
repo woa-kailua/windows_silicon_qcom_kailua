@@ -1,0 +1,5 @@
+Drivers/Subsystems/NPU/HTP/QnnHtpPrepareDrv.dll filter=lfs diff=lfs merge=lfs -text
+Drivers/Graphics/DXKM/qcgpuarm64compilercore.so filter=lfs diff=lfs merge=lfs -text
+*QnnHtpPrepareDrv.dll filter=lfs diff=lfs merge=lfs -text
+*qcgpuarm64compilercore.so filter=lfs diff=lfs merge=lfs -text
+Extensions/Subsystems/Modem/qcmpss8550.mbn filter=lfs diff=lfs merge=lfs -text
